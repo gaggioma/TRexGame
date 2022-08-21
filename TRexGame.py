@@ -1,7 +1,6 @@
-#import browser interaction library to open page https://trex-runner.com/
+#import browser interaction library to open page https://trex-runner.com
 #Download chrome dirver here https://chromedriver.chromium.org/downloads
 from selenium import webdriver
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 
 #Keyboard interaction
