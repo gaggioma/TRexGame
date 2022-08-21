@@ -9,10 +9,12 @@ This game require that t-rex jumps Cactus🌵 before impact on them.
 Basically the idea is composed on three steps:
 
 1) [Make a snapshot of current game screen](#game-snapshot)
+2) [Define target](#define-target-area)
+1) [Simulate keyboard interaction](#keyboard-interaction)
 
 ### Game snapshot
 
-### Crop snapshot over target area
+### Define target area
 
 ### Keyboard interaction
 
