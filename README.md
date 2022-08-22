@@ -1,4 +1,4 @@
-# Python autopilot implementation on 🦖 [T-Rex Game](https://trex-runner.com)
+# 🐍Python autopilot implementation on 🦖 [T-Rex Game](https://trex-runner.com)
 
 ## Main purpose
 During this summer hollyday, i asked me if was possibile to design and to implement an outopilot ✈️ software to a simple web game in less time as possible. 
@@ -27,6 +27,8 @@ This has been easily implemented using [Pynput](https://pynput.readthedocs.io/en
 Another point where this library cames me in help is at the begining of the game, where a space bar click is mandatory to start.
 
 ## Result
+Here a demo of application.
+Unfortunately, when game speed increase, Selenium sample rate in not enough or at the moment i have not tried to find a remedy 😄.
 https://user-images.githubusercontent.com/64643932/185933423-a11d2352-4dfb-4871-9035-ffb1b5a73ce3.mp4
 
 
