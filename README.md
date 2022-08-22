@@ -19,12 +19,12 @@ I used [Selenium](https://selenium-python.readthedocs.io/) which make this task 
 ### Define target area
 From the snapshot image we should determine an area inside which to see if exist some cactus 👀🌵.
 For this puprose, from the main image has been cropped a rectangular window centered in (732, 380) top left center, and dimension (w=192, h=25).
-The detection of Cactus has been realized computiong the Min value from image pixel matrix. The blank image has Min = 83 otherwise some cactus has been detected. 
+The detection of Cactus has been realized evaluating the Min value from image pixel matrix. The blank image has Min = 83 otherwise some cactus has been detected. 
 
 ### Keyboard interaction
 Once some cactus has been detected the user has to make T-Rex jumps by a keyboard interaction (up arrow).
 This has been easily implemented using [Pynput](https://pynput.readthedocs.io/en/latest/).
-Another points where this library came me in help is at the begining of the game, where a space bar click is mandatory to start the game.
+Another point where this library cames me in help is at the begining of the game, where a space bar click is mandatory to start.
 
 ## Result
 ![](https://github.com/gaggioma/ResultVideo/blob/main/TRex-result.mp4)
