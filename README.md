@@ -29,6 +29,7 @@ Another point where this library cames me in help is at the begining of the game
 ## Result
 Here a demo of application.
 Unfortunately, when game speed increase, Selenium sample rate in not enough or at the moment i have not tried to find a remedy 😄.
+
 https://user-images.githubusercontent.com/64643932/185933423-a11d2352-4dfb-4871-9035-ffb1b5a73ce3.mp4
 
 
