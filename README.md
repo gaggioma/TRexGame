@@ -27,7 +27,7 @@ This has been easily implemented using [Pynput](https://pynput.readthedocs.io/en
 Another points where this library came me in help is at the begining of the game, where a space bar click is mandatory to start the game.
 
 ## Result
-![result-video](https://github.com/gaggioma/ResultVideo/blob/main/TRex-result.mp4)
+![](https://github.com/gaggioma/ResultVideo/blob/main/TRex-result.mp4)
 
 
 
