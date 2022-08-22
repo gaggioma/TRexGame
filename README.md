@@ -3,7 +3,7 @@
 ## Main purpose
 During this summer hollyday, i asked me if was possibile to design and to implement an outopilot ✈️ software to a simple web game in less time as possible. 
 For this purpose i have chosen [T-Rex Game](https://trex-runner.com) with the autopilot sw written in [Python](https://www.python.org/).
-This game require that t-rex jumps Cactus🌵 before impact on them. 
+This game require that t-rex jumps Cactus🌵 before impact over them. 
 
 ## Implementation idea
 Basically the idea is composed on three steps, repeated indefinitely:
@@ -22,7 +22,7 @@ For this puprose, from the main image has been cropped a rectangular window cent
 The detection of Cactus has been realized evaluating the Min value from image pixel matrix. The blank image has Min = 83 otherwise some cactus has been detected. 
 
 ### Keyboard interaction
-Once some cactus has been detected the user has to make T-Rex jumps by a keyboard interaction (up arrow).
+Once some cactus has been detected, the user has to make T-Rex jumping by a keyboard interaction (up arrow).
 This has been easily implemented using [Pynput](https://pynput.readthedocs.io/en/latest/).
 Another point where this library cames me in help is at the begining of the game, where a space bar click is mandatory to start.
 
